@@ -1,4 +1,4 @@
-# Project 3: 80’s
+# Tapper Remake
 
 Screen resolution: 16x9
 
