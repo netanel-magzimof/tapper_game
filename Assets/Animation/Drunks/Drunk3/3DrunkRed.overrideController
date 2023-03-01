@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 3DrunkRed
+  m_Controller: {fileID: 9100000, guid: ae8e861a224a843469e8d3dbd69fc144, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 61ed778f2caf445eca2c22d985277198, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eef476f3941124753b3946a8dbec8ebe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 32df68a21bc4d49bbabc93dc588a4587, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a3f361739b98848dd87e0900670c4b09, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 160db4f99b63d4f128cb45f29900dd85, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c3f93ee5e65ac419b9c368fa2102b4b0, type: 2}

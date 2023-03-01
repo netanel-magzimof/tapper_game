@@ -1,0 +1,497 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1674802955348916, "dur":561, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955349484, "dur":52, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1674802955349544, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1674802955349560, "dur":197, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1674802955349765, "dur":382, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955350147, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368520, "dur":93, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368620, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368628, "dur":45, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368674, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368694, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368701, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368708, "dur":8, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368716, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368726, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368732, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368739, "dur":7, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368746, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368753, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368759, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368766, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368772, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368779, "dur":7, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368786, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368793, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368798, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368805, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368811, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368817, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368822, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368830, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368835, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368858, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368862, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368867, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368871, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368876, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368881, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368886, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368889, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955368899, "dur":1540, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1674802955349628, "dur":527, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955350158, "dur":2070, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955352229, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1674802955352231, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955352329, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1674802955352333, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955352962, "dur":313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1674802955353276, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955353285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955353396, "dur":397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955353804, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s.exe" }}
+,{ "pid":12345, "tid":1, "ts":1674802955353814, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955353819, "dur":487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s.exe" }}
+,{ "pid":12345, "tid":1, "ts":1674802955354312, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955354480, "dur":25, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955354716, "dur":619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955355456, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955355582, "dur":34, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955355842, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955356900, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955357123, "dur":69, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955357503, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955358373, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955358524, "dur":25, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955358830, "dur":706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955359659, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955359904, "dur":36, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955360036, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955361145, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955361308, "dur":41, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955361513, "dur":1060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955362581, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955362707, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955362714, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955364208, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955364298, "dur":52, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955364563, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1674802955366135, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1674802955366223, "dur":19, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1674802955366503, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1674802955367531, "dur":1050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955349637, "dur":525, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955350163, "dur":2099, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955352263, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1674802955352292, "dur":37, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955352847, "dur":300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1674802955353152, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1674802955353159, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955353166, "dur":355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1674802955353529, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955353560, "dur":24, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955353695, "dur":524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955354228, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955354313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955354564, "dur":552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955355214, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955355357, "dur":42, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955355412, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955356436, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955356638, "dur":48, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955357010, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955358004, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955358132, "dur":61, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955358412, "dur":1088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955359640, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955359772, "dur":51, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955360209, "dur":922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955361258, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955361455, "dur":27, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955361517, "dur":1023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955362547, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955362622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955362678, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955364280, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955364430, "dur":82, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955364708, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1674802955366878, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1674802955367178, "dur":48, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1674802955367469, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1674802955368453, "dur":196, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955349643, "dur":525, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955350168, "dur":2096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955352265, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1674802955352322, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955352823, "dur":332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1674802955353171, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1674802955353227, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955353235, "dur":315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1674802955353603, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1674802955353657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955353708, "dur":558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1674802955354275, "dur":705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955354984, "dur":36, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955355205, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955356325, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955356544, "dur":55, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955356855, "dur":876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955357927, "dur":3615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955361545, "dur":65, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955361679, "dur":1677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955363543, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955363699, "dur":95, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955364169, "dur":1467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1674802955365642, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1674802955365652, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955365731, "dur":513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1674802955366413, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1674802955366648, "dur":57, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1674802955367182, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1674802955368118, "dur":496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955349650, "dur":521, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955350171, "dur":2109, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955352280, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1674802955352364, "dur":68, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955353537, "dur":475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1674802955354020, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1674802955354081, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955354215, "dur":725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1674802955355040, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955355197, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955355448, "dur":823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955356452, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955356630, "dur":40, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955356978, "dur":926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955358112, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955358276, "dur":40, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955358406, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955359330, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955359491, "dur":48, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955359596, "dur":919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955360626, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955360815, "dur":58, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955361153, "dur":914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955362074, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955362251, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955362262, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955364084, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955364362, "dur":42, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1674802955364650, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1674802955367390, "dur":1149, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955349656, "dur":518, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955350174, "dur":2109, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955352284, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1674802955352371, "dur":62, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955353912, "dur":646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1674802955354610, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955354748, "dur":48, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955355050, "dur":695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955355864, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955356043, "dur":64, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955356506, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955357481, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955357682, "dur":52, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955358104, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955359088, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955359264, "dur":33, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955359599, "dur":912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955360666, "dur":438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955361153, "dur":44, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955361436, "dur":1675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955363292, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955363589, "dur":46, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955364088, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955365566, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955365628, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1674802955365634, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1674802955367283, "dur":1388, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955349658, "dur":519, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955350177, "dur":2112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955352289, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1674802955352379, "dur":54, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955353690, "dur":408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1674802955354107, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1674802955354119, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955354240, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1674802955354874, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955355219, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955355479, "dur":807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955356462, "dur":876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955357342, "dur":59, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955357712, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955358814, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955359082, "dur":66, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955359404, "dur":909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955360407, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955360689, "dur":70, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955361089, "dur":992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955362098, "dur":517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955362619, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955362626, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955364365, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955364538, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955364732, "dur":2244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1674802955367221, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1674802955367368, "dur":53, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1674802955367462, "dur":926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1674802955368396, "dur":229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955349660, "dur":520, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955350180, "dur":2110, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955352297, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1674802955352426, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955353230, "dur":392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1674802955353703, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955353724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955353729, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955354490, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955354562, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955354768, "dur":704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955355565, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955355728, "dur":34, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955356000, "dur":775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955356934, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955357135, "dur":65, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955357552, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955358527, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955358656, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955358932, "dur":746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955359863, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955360002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955360009, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955360921, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955361033, "dur":54, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955361374, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955363151, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955363326, "dur":27, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955363677, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955364758, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955364922, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1674802955364928, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1674802955367271, "dur":1256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955349676, "dur":508, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955350184, "dur":2107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955352297, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1674802955352407, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955354905, "dur":728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1674802955355795, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955355969, "dur":67, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955356425, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955357409, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955357589, "dur":46, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955358035, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955359077, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955359234, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955359564, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955360648, "dur":6101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955366752, "dur":91, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1674802955367320, "dur":642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1674802955367968, "dur":624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955349684, "dur":503, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955350187, "dur":2101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955352288, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1674802955352383, "dur":51, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955354158, "dur":679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1674802955354939, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955355176, "dur":27, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955355239, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955356360, "dur":4502, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955360865, "dur":37, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955361182, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955362189, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955362261, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955362268, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955364007, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955364180, "dur":54, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955364477, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955365468, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955365657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1674802955365663, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1674802955367314, "dur":1245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955349697, "dur":493, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955350190, "dur":2111, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955352301, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1674802955352439, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955356242, "dur":786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1674802955357207, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955357484, "dur":66, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955357902, "dur":858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955358882, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955359084, "dur":71, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955359407, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955360424, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955360610, "dur":44, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955361009, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955362019, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955362077, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955362085, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955363998, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955364257, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955364355, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1674802955365621, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1674802955365634, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955365687, "dur":506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1674802955366321, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1674802955366479, "dur":62, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1674802955366855, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1674802955367821, "dur":727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955349707, "dur":486, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955350193, "dur":2101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955352298, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1674802955352403, "dur":34, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955355441, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1674802955356417, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955356651, "dur":66, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955357013, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955358052, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955358256, "dur":29, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955358407, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955359475, "dur":819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955360298, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955360597, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955361550, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955361801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955361851, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955363438, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955363629, "dur":69, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955364132, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955365101, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955365175, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955365182, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1674802955367090, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1674802955367264, "dur":56, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1674802955367462, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1674802955368409, "dur":253, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955349718, "dur":478, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955350196, "dur":2104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955352300, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1674802955352411, "dur":27, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955355842, "dur":808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1674802955356795, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955357040, "dur":52, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955357453, "dur":960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955358491, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955358669, "dur":43, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955358959, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955359995, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955360175, "dur":41, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955360508, "dur":844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955361463, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955361624, "dur":50, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955361682, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955363939, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955364152, "dur":46, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955364353, "dur":1382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1674802955365743, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1674802955365755, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955365760, "dur":920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1674802955366932, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1674802955367120, "dur":78, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1674802955367439, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1674802955368469, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":12, "ts":1674802955368470, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955349728, "dur":471, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955350200, "dur":2102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955352302, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1674802955352417, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955356547, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1674802955357513, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955357762, "dur":85, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955358172, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955359312, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955359594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955359600, "dur":1107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955360912, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955361068, "dur":45, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955361407, "dur":1585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955363143, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955363344, "dur":50, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955363758, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955364769, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955364915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955364922, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1674802955366498, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/resources.assets" }}
+,{ "pid":12345, "tid":13, "ts":1674802955366643, "dur":43, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1674802955367130, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/resources.assets" }}
+,{ "pid":12345, "tid":13, "ts":1674802955368023, "dur":577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955349738, "dur":465, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955350203, "dur":2095, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955352298, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1674802955352397, "dur":39, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955355269, "dur":596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1674802955356048, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955356372, "dur":71, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955356744, "dur":1008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955357969, "dur":1924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955359897, "dur":45, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955360296, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955361284, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955361418, "dur":23, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955361676, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955363601, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955363866, "dur":55, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955364252, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1674802955365823, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1674802955365847, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955365853, "dur":780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1674802955366795, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1674802955367037, "dur":107, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1674802955367467, "dur":964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1674802955368438, "dur":202, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955349752, "dur":454, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955350206, "dur":2091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955352297, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1674802955352399, "dur":37, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955354648, "dur":596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1674802955355369, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955355750, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955356085, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955357111, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955357286, "dur":72, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955357646, "dur":1000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955358759, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955358903, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955359190, "dur":747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955360160, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955360322, "dur":38, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955360716, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955361705, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955361868, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955361874, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955363134, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955363339, "dur":15, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955363682, "dur":1136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955364897, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955365025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955365119, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1674802955367212, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1674802955367351, "dur":60, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1674802955367532, "dur":822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1674802955368361, "dur":271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955349762, "dur":448, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955350210, "dur":2086, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955352299, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1674802955352421, "dur":26, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955356689, "dur":695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1674802955357566, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955357739, "dur":87, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955358209, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955359244, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955359427, "dur":54, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955359727, "dur":1170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955361065, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955361221, "dur":27, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955361487, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955363531, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955363686, "dur":86, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955364116, "dur":1033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955365178, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955365292, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955365298, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1674802955366128, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1674802955366136, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1674802955366143, "dur":1049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/netanelmagzimof/Desktop/tapper windows/template-80s_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1674802955367382, "dur":1187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1674802955371449, "dur":571, "ph":"X", "name": "ProfilerWriteOutput" }
+,
